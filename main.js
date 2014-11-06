@@ -1,6 +1,6 @@
 'use strict';
 
-var level = require('level');
+var level = require('level-mem');
 var ttl = require('level-ttl');
 var uuid = require('uuid');
 var Sublevel = require('level-sublevel');

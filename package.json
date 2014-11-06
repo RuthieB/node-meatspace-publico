@@ -4,7 +4,7 @@
   "description": "Chat with LevelDB (the public edition)",
   "main": "main.js",
   "dependencies": {
-    "level": "~0.18.0",
+    "level-mem": "~0.18.0",
     "level-sublevel": "~6.3.1",
     "level-ttl": "~1.0.1",
     "uuid": "~1.4.1",
